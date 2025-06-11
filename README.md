@@ -5,4 +5,4 @@ A constantly updated public [Google Sheets File](https://docs.google.com/spreads
 
 ## People:
 
-### Huge thanks to [Kiokingz](https://github.com/Kiokingz), [43225](https://github.com/43225), and [pythonplayer123](https://github.com/junepark678) for helping me make this chart actually exist!
+### Huge thanks to [kiokori](https://github.com/kiokori-git), [43225](https://github.com/43225), and [pythonplayer123](https://github.com/junepark678) for helping me make this chart actually exist!
